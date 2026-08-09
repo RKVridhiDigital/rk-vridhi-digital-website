@@ -1,5 +1,0 @@
-# Netlify-style redirects: old URLs -> new architecture
-/services            /packages            301
-/services.html       /packages.html       301
-/how-to-start        /how-i-work          301
-/how-to-start.html   /how-i-work.html     301
